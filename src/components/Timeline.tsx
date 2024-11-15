@@ -3,7 +3,7 @@ import React from 'react';
 const experiences = [
   {
     id: 1,
-    role: 'Executive Flutter Developer',
+    role: 'Sr. Executive Flutter Developer',
     company: 'WoodenStreet',
     date: 'Nov 2023 - Present',
     link:'https://www.woodenstreet.com/',
