@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Gradding App',
     description: 'Gradding is a Flutter-based mobile application designed to assist students who aspire to study abroad. It provides comprehensive guidance and resources, making the process smoother and more organized',
-    imageUrl: 'https://www.gradding.com/frontend/primary-theme/assets/images/ogimage.png',
+    imageUrl: 'https://gradding.s3.ap-south-1.amazonaws.com/website-images/uploads/images/media/ogimage-674e.png',
     caseStudyUrl: 'https://play.google.com/store/apps/details?id=com.gradding&hl=en-IN'
   },
   {
